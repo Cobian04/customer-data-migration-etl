@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2",
+    "nombre": "Ana Lopez",
+    "email": "ana.test.com",
+    "edad": "30",
+    "error": "Formato de email incorrecto"
+  },
+  {
+    "id": "3",
+    "nombre": "Luis G",
+    "email": "luis@test.com",
+    "edad": "-5",
+    "error": "Edad inválida"
+  },
+  {
+    "id": "5",
+    "nombre": "Pedro",
+    "email": "pedro@",
+    "edad": "40",
+    "error": "Formato de email incorrecto"
+  },
+  {
+    "id": "6",
+    "nombre": "Sofia",
+    "email": "sofia@test.com",
+    "edad": "diez",
+    "error": "Edad inválida"
+  }
+]
