@@ -1,13 +1,13 @@
 {
   "name": "data-cleaner-etl",
   "version": "1.0.0",
-  "description": "",
+  "description": "cript de automatización ETL en Node.js para validación y limpieza de registros.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jan Cobian",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
